@@ -13,7 +13,7 @@ provider:
       Resource: "*"
 
 custom:
-  bucket: justsnap.eu-mails
+  bucket: contactmails
 
 functions:
   postProcess:
